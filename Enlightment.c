@@ -9,5 +9,6 @@ int main(){
         int withdraw;
     };
 
+    printf("Aku suka nasi padang");
     return 0;
 }
