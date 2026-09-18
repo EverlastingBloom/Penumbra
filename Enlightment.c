@@ -9,11 +9,5 @@ int main(){
         int withdraw;
     };
 
-    
-    struct User user = {
-        .saldo = 1000000,
-        .withdrawal = 0
-    };
-
     return 0;
 }
